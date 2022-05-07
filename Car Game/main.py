@@ -1,4 +1,4 @@
-import pygame, time, keyboard, random
+import pygame, time, keyboard
 
 
 def car4():
